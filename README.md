@@ -53,12 +53,6 @@ Here are some key goals I'm focused on for this year:
 
 ---
 
-### 🌐 **Connect with Me**
-Feel free to reach out or connect on any of the following platforms:
-
-- 🌐 [Portfolio](https://yun0329.github.io)
-
----
 
 <p align="center" style="color: #888;">Thanks for stopping by! 😊</p>
 
